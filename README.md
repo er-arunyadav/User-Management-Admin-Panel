@@ -1,2 +1,30 @@
 # User-Management-Admin-Panel
-Im using ADMIN LITE  Powerfull Codeigniter Admin Panel . In this project i'm created User Roles and Permissions, Export Data in PDF &amp; CSV FORMAT,Login Authentication,Email Verification,Google Recaptcha, Server-side Processing (Datatables),Ajax Base Pagination &amp; Search, Generation Invoices in PDF Format, Sending Invoices with Email Attachment,Custom Email Templates, Multiple file upload example,User Activity Log,Database Backup,Advanced Search Filter,Database Backup,Members or users management (View, Add, Edit &amp; Update, Active &amp; Inactive, Delete),Dynamic Graphse
+Functionality:
+
+    Multilanguage Supported
+    Login Authentication
+    Email Verification
+    Forget/ Reset/ Change Password
+    Google Recaptcha
+    User Roles and Permissions
+    Dynamic Side Meny
+    Specific module access to Admins
+    Dynamic Graphs
+    Admin Profile Management (View, Edit & Update)
+    Members or users management (View, Add, Edit & Update, Active & Inactive, Delete)
+    Simple Datatables
+    Server-side Processing (Datatables)
+    Pagination Example
+    Ajax Base Pagination & Search
+    Advanced Search Filter
+    Export Data in PDF Formate
+    Export Data in CSV Formate
+    Invoicing System
+    Generation Invoices in PDF Formate
+    Sending Invoices with Email Attachment
+    Custom Email Templates
+    Multiple file upload example
+    User Activity Log
+    Country, state, city example
+    Database Backup
+    Access Denied Page
