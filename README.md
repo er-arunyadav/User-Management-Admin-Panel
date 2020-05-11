@@ -28,3 +28,9 @@ Functionality:
     Country, state, city example
     Database Backup
     Access Denied Page
+Security
+
+    SQL Injection
+    XSS Clean
+    CSRF Protection
+    Password Hashing
