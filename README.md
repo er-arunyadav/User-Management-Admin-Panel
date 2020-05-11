@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-SHARED ON CODELIST.CC
 
-
- www.codelist.cc
-=======
 # User-Management-Admin-Panel
 Functionality:
 
